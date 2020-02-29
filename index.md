@@ -1,5 +1,5 @@
 ## Tingting Cai
-
+![](https://github.com/emmachoose/emmachoose.github.io/blob/master/%E5%9B%BE%E7%89%87.jpg)
 ### Education
 +	2013-2017 		Beijing Jiaotong University in China	,	Software Engineering 	
 +	2016-2017 		Wilfrid Laurier University in Canada	 ,Exchange Student 	
