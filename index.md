@@ -6,10 +6,10 @@
 +	2017-2020		  Sun Yat-sen Univeristy in China		  ,   Computer Science
 
 ### Internship&Competition
-+ Joint Laboratory for IBM and Donghua     Java Intern     2016.5-2016.8
+#### + Joint Laboratory for IBM and Donghua     Java Intern     2016.5-2016.8
     + Take part in the frontend development of AVATAR platform
-    + Use SpringMVC for java web development. 
-    + Responsible to insert, query, delete, modify data.
+    + Use SpringMVC for java web development
+    + Responsible to insert, query, delete, modify data
 #### Weibo     Bigdata Intern     2016.8.-2016.12
 +	Responsible for applying ELK tools to analysis live user data.
 #### Huawei     Computer Vision Intern     2019.6-2019.9
