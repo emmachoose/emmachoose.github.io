@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Tingting Cai
 
-You can use the [editor on GitHub](https://github.com/emmachoose/emmachoose.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
++	2013-2017 		Beijing Jiaotong University in China	,	Software Engineering 	
++	2016-2017 		Wilfrid Laurier University in Canada	 ,Exchange Student 	
++	2017-2020		  Sun Yat-sen Univeristy in China		  ,   Computer Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Internship&Competition
+####	Joint Laboratory for IBM and Donghua     Java Intern     2016.5-2016.8
++	Take part in the frontend development of AVATAR platform
++	Use SpringMVC for java web development. 
++	Responsible to insert, query, delete, modify data.
+####	Weibo     Bigdata Intern     2016.8.-2016.12
++	Responsible for applying ELK tools to analysis live user data.
+####	Huawei     Computer Vision Intern     2019.6-2019.9
++	Research for the emotion recognition
++	Use MTCNN to detect faces in video and apply MobileNetv2 on the faces to detect emotion.
++	Transplant the model to mobile phone for real-time emotion recognition
+####	Tianchi2019 Multi-Lesion Detection via CTscans     Competition     2019.7
++	Get 9th/1635
++	Train Inception-Resnet-v2 models on V100 for the detection and get 0.382 for average of seven sensitivities among four types of lesions
+### Papers
++ Mask-pooling Model with Local-level Triplet Loss for Person Re-identification,under review
++ DistForest: A Parallel Random Forest Training Framework Based on Supercomputer, received by HPCC
 
-### Markdown
+### Research interests
++ Multi-lesion detection in medical images
++ Person ReID
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emmachoose/emmachoose.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+#### caitt_sysu@163.com
