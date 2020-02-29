@@ -29,4 +29,4 @@
 + Person ReID
 
 ### Contact
-    *caitt_sysu@163.com*
+   *caitt_sysu@163.com*
