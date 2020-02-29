@@ -19,6 +19,7 @@
 + Tianchi2019 Multi-Lesion Detection via CTscans     Competition     2019.7
     + Get 9th/1635
     + Train Inception-Resnet-v2 models on V100 for the detection and get 0.382 for average of seven sensitivities among four types of lesions
+
 ### Papers
 + Mask-pooling Model with Local-level Triplet Loss for Person Re-identification,under review
 + DistForest: A Parallel Random Forest Training Framework Based on Supercomputer, received by HPCC
